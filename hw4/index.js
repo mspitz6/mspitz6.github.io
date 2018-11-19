@@ -8,7 +8,7 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'But this is not, in my estimation, the greatest objection. I feel a deep and deliberate conviction that there are many cases in which the trial by jury is an ineligible one.',
+      'I feel a deep and deliberate conviction that there are many cases in which the trial by jury is an ineligible one.',
   'example2':
       'He looked at them, his wellshaped mouth open happily, his eyes, from which he had suddenly withdrawn all shrewd sense, blinking with mad gaiety.',
   'example3':
