@@ -12,7 +12,7 @@ const examples = {
   'example2':
       'He looked at them, his wellshaped mouth open happily, his eyes, from which he had suddenly withdrawn all shrewd sense, blinking with mad gaiety.'
   'example3':
-      'It was the spring of the year, and the story had been told for the night, and Jane was now asleep in her bed. Wendy was sitting on the floor, very close to the fire, so as to see to darn, for there was no other light in the nursery; and while she sat darning she heard a crow.',
+      'But Wendy noticed with gentle concern that Peter did not seem to know that this was rather an odd way of getting your bread and butter, nor even that there are other ways.',
 };
 
 function status(statusText) {
