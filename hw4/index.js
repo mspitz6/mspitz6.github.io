@@ -10,9 +10,9 @@ const examples = {
   'example1':
       'I feel a deep and deliberate conviction that there are many cases in which the trial by jury is an ineligible one.',
   'example2':
-      'He looked at them, his wellshaped mouth open happily, his eyes, from which he had suddenly withdrawn all shrewd sense, blinking with mad gaiety.',
+      'Walk along a strand, strange land, come to a city gate, sentry there, old ranker too, old Tweedy’s big moustaches, leaning on a long kind of a spear.',
   'example3':
-      'But Wendy noticed with gentle concern that Peter did not seem to know that this was rather an odd way of getting your bread and butter, nor even that there are other ways.'
+      'It was a sanguinary affair, and especially interesting as showing one of Peter's peculiarities, which was that in the middle of a fight he would suddenly change sides.'
 };
 
 function status(statusText) {
