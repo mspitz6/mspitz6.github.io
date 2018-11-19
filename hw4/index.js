@@ -8,11 +8,11 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Alice was beginning to get very tired of sitting by her sister on the bank.',
+      'But this is not, in my estimation, the greatest objection. I feel a deep and deliberate conviction that there are many cases in which the trial by jury is an ineligible one.',
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      'He looked at them, his wellshaped mouth open happily, his eyes, from which he had suddenly withdrawn all shrewd sense, blinking with mad gaiety.'
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
+      'It was the spring of the year, and the story had been told for the night, and Jane was now asleep in her bed. Wendy was sitting on the floor, very close to the fire, so as to see to darn, for there was no other light in the nursery; and while she sat darning she heard a crow.',
 };
 
 function status(statusText) {
