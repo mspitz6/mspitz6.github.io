@@ -12,7 +12,7 @@ const examples = {
   'example2':
       'He looked at them, his wellshaped mouth open happily, his eyes, from which he had suddenly withdrawn all shrewd sense, blinking with mad gaiety.',
   'example3':
-      'But Wendy noticed with gentle concern that Peter did not seem to know that this was rather an odd way of getting your bread and butter, nor even that there are other ways.',
+      'But Wendy noticed with gentle concern that Peter did not seem to know that this was rather an odd way of getting your bread and butter, nor even that there are other ways.'
 };
 
 function status(statusText) {
