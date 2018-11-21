@@ -10,7 +10,7 @@ const examples = {
   'example1':
       'I feel a deep and deliberate conviction that there are many cases in which the trial by jury is an ineligible one.',
   'example2':
-      'Walk along a strand, strange land, come to a city gate, sentry there, old ranker too, old Tweedys big moustaches, leaning on a long kind of a spear.',
+      'Jousts, slush and uproar of battles, the frozen deathspew of the slain, a shout of spearspikes baited with mens bloodied guts.',
   'example3':
       'It was a sanguinary affair, and especially interesting as showing one of Peters peculiarities, which was that in the middle of a fight he would suddenly change sides.'
 };
