@@ -12,7 +12,7 @@ const examples = {
   'example2':
       'Walk along a strand, strange land, come to a city gate, sentry there, old ranker too, old Tweedys big moustaches, leaning on a long kind of a spear.',
   'example3':
-      'It was a sanguinary affair, and especially interesting as showing one of Peter's peculiarities, which was that in the middle of a fight he would suddenly change sides.'
+      'It was a sanguinary affair, and especially interesting as showing one of Peters peculiarities, which was that in the middle of a fight he would suddenly change sides.'
 };
 
 function status(statusText) {
