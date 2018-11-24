@@ -8,11 +8,11 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'I feel a deep and deliberate conviction that there are many cases in which the trial by jury is an ineligible one.',
+      'Alice thought she had never seen such a curious croquet ground in her life it was all ridges and furrows the balls were live hedgehogs the mallets live flamingoes and the soldiers had to double themselves up and to stand on their hands and feet to make the arches',
   'example2':
-      'Jousts, slush and uproar of battles, the frozen deathspew of the slain, a shout of spearspikes baited with mens bloodied guts.',
+      'To be or not to be that is the Question Whether tis Nobler in the minde to suffer The Slings and Arrowes of outragious Fortune Or to take Armes against a Sea of troubles And by opposing end them',
   'example3':
-      'It was a sanguinary affair, and especially interesting as showing one of Peters peculiarities, which was that in the middle of a fight he would suddenly change sides.'
+      'Some gamesome wights will tell you that they have to plant weeds there they dont grow naturally that they import Canada thistles that they have to send beyond seas for a spile to stop a leak in an oil cask that pieces of wood in Nantucket are carried about like bits of the true cross in Rome that people there plant toadstools before their houses'
 };
 
 function status(statusText) {
